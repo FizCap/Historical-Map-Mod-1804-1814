@@ -54,24 +54,24 @@
 		}				
 	}
 
-	# c:BUR = {
-	# 	create_diplomatic_pact = {
-	# 		country = c:SIA
-	# 		type = tributary
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:DAI
-	# 		type = tributary
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:CAM
-	# 		type = tributary
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:CHP
-	# 		type = vassal
-	# 	}
-	# }
+	c:BUR = {
+		create_diplomatic_pact = {
+			country = c:SIA
+			type = tributary
+		}
+		create_diplomatic_pact = {
+			country = c:DAI
+			type = tributary
+		}
+		create_diplomatic_pact = {
+			country = c:CAM
+			type = tributary
+		}
+		create_diplomatic_pact = {
+			country = c:CHP
+			type = vassal
+		}
+	}
 
 	c:OMA = {
 		create_diplomatic_pact = {
@@ -92,24 +92,24 @@
 		}
 	}
 
-	# c:ETH = {
-	# 	create_diplomatic_pact = {
-	# 		country = c:WLG
-	# 		type = puppet
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:SHW
-	# 		type = puppet
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:SDM
-	# 		type = puppet
-	# 	}
-	# 	create_diplomatic_pact = {
-	# 		country = c:KFA
-	# 		type = puppet
-	# 	}
-	# }
+	c:ETH = {
+		create_diplomatic_pact = {
+			country = c:WLG
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:SHW
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:SDM
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:KFA
+			type = puppet
+		}
+	}
 
 	c:USA = {
 		create_diplomatic_pact = {
@@ -190,20 +190,20 @@
 		}
 	}
 
-	c:CAV = {
-		create_diplomatic_pact = {
-			country = c:MIN
-			type = puppet
-		}
-		create_diplomatic_pact = {
-			country = c:SVA
-			type = puppet
-		}
-		create_diplomatic_pact = {
-			country = c:ABK
-			type = puppet
-		}
-	}
+	# c:CAV = {
+	# 	create_diplomatic_pact = {
+	# 		country = c:MIN
+	# 		type = puppet
+	# 	}
+	# 	create_diplomatic_pact = {
+	# 		country = c:SVA
+	# 		type = puppet
+	# 	}
+	# 	create_diplomatic_pact = {
+	# 		country = c:ABK
+	# 		type = puppet
+	# 	}
+	# }
 
 	c:DEN = {
 		create_diplomatic_pact = {
@@ -225,10 +225,10 @@
 			country = c:EGY
 			type = puppet
 		}
-		# create_diplomatic_pact = {
-		# 	country = c:TRI
-		# 	type = puppet
-		# }	
+		create_diplomatic_pact = {
+			country = c:TRI
+			type = vassal
+		}	
 		create_diplomatic_pact = {
 			country = c:SER
 			type = puppet
@@ -237,10 +237,10 @@
 			country = c:TUN
 			type = puppet
 		}
-		# create_diplomatic_pact = {
-		# 	country = c:CON
-		# 	type = puppet
-		# }
+		create_diplomatic_pact = {
+			country = c:CON
+			type = vassal
+		}
 		create_diplomatic_pact = {
 			country = c:AIT
 			type = puppet
@@ -251,7 +251,7 @@
 		}
 	}
  
-	c:MAE = { #HND #
+	c:HND = { #HND #MAE
 		create_diplomatic_pact = {
 			country = c:JOD
 			type = puppet

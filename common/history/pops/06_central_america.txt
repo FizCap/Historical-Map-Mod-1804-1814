@@ -1,6 +1,6 @@
 ﻿POPS = {
 	s:STATE_SAN_SALVADOR = {
-		region_state:ELS = {
+		region_state:UCA = {
 			create_pop = {
 				culture = central_american
 				size = 428204
@@ -8,7 +8,7 @@
 		}
 	}
 	s:STATE_GUATEMALA = {
-		region_state:GUA = {
+		region_state:UCA = {
 			create_pop = {
 				culture = central_american
 				size = 164404
@@ -18,7 +18,7 @@
 				size = 312000
 			}
 		}
-		region_state:BLZ = {
+		region_state:GBR = {
 			create_pop = {
 				culture = afro_caribbean
 				size = 7104
@@ -30,7 +30,7 @@
 		}
 	}
 	s:STATE_HONDURAS = {
-		region_state:HON = {
+		region_state:UCA = {
 			create_pop = {
 				culture = central_american
 				size = 385204
@@ -42,7 +42,7 @@
 		}
 	}
 	s:STATE_NICARAGUA = {
-		region_state:NIC = {
+		region_state:UCA = {
 			create_pop = {
 				culture = central_american
 				size = 284000
@@ -52,10 +52,37 @@
 				size = 4000
 			}
 		}
-		# 
+		region_state:MKT = {
+			create_pop = {
+				culture = miskito # Tawira Miskito
+				size = 30000
+			}
+			create_pop = {
+				culture = miskito
+				religion = protestant
+				size = 10000
+			}
+			create_pop = {
+				culture = afro_caribbean # Miskito Sambu
+				size = 20000
+			}
+			create_pop = {
+				culture = afro_caribeno
+				size = 500
+			}
+			create_pop = {
+				culture = british
+				size = 500
+			}
+			create_pop = {
+				pop_type = slaves
+				culture = afro_caribeno
+				size = 1000
+			}
+		}
 	}
 	s:STATE_COSTA_RICA = {
-		region_state:COS = {
+		region_state:UCA = {
 			create_pop = {
 				culture = central_american
 				size = 83992
@@ -63,7 +90,7 @@
 		}
 	}
 	s:STATE_PANAMA = {
-		region_state:PNM = {
+		region_state:CLM = {
 			create_pop = {
 				culture = central_american
 				size = 87792
@@ -84,20 +111,6 @@
 			create_pop = {
 				culture = cariban
 				size = 4000
-			}
-		}
-		region_state:USA = {
-			create_pop = {
-				culture = central_american
-				size = 8779
-			} 
-			create_pop = {
-				culture = north_andean
-				size = 400
-			}
-			create_pop = {
-				culture = cariban
-				size = 400
 			}
 		}
 	}
@@ -135,7 +148,7 @@
 		}
 	}
 	s:STATE_SANTO_DOMINGO = {
-		region_state:DOM = {
+		region_state:HAI = {
 			create_pop = { # Haitians.
 				culture = afro_antillean
 				size = 4007

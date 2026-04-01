@@ -192,9 +192,9 @@ AGJ = {
 }
 
 AMZ = {
-	color = { 42 102 64 }
-
-	country_type = unrecognized
+	color = { 250 249 245 }
+	
+	country_type = decentralized
 
 	tier = kingdom
 
@@ -371,7 +371,8 @@ POR = {
 	tier = kingdom
 
 	cultures = { portuguese } #brazilian
-	capital = STATE_ESTREMADURA
+	#capital = STATE_ESTREMADURA
+	capital = STATE_RIO_DE_JANEIRO
  
 }
 
@@ -2586,7 +2587,8 @@ BRI = {
 }
 
 PAT = {
-	color = { 196 25 10 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 
@@ -2597,7 +2599,8 @@ PAT = {
 }
 
 THL = {
-	color = { 57 124 138 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 
@@ -2608,7 +2611,7 @@ THL = {
 }
 
 SLK = {
-	color = { 122 14 52 }
+	color = { 250 249 245 }
 
 	country_type = decentralized
 
@@ -3166,7 +3169,8 @@ AYM = { # Aymara
 }
 
 WYU = { # Wayuu
-	color = { 40 96 65 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 
@@ -3382,7 +3386,8 @@ CCM = { # O'odham Country
 }
 
 ORN = { # Orinoco
-	color = hsv{ 0.28 0.79 0.47 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 
@@ -3394,7 +3399,8 @@ ORN = { # Orinoco
 }
 
 MUI = { # Muisca
-	color = { 162 182 64 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 
@@ -3668,7 +3674,8 @@ TPG = {
 }
 
 GNI = {
-	color = { 73 139 166 }
+	color = { 250 249 245 }
+
 
 	country_type = decentralized
 

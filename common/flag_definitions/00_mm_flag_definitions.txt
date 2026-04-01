@@ -930,10 +930,17 @@ INJECT:ITA = { # Italy
 		trigger = {
 			exists = c:FRA
 			c:FRA = {
-				has_diplomatic_pact = {
-					who = c:ITA
-					type = protectorate
-					is_initiator = yes
+				or = {
+					has_diplomatic_pact = {
+						who = c:ITA
+						type = protectorate
+						is_initiator = yes
+					}
+					has_diplomatic_pact = {
+						who = c:ITA
+						type = puppet
+						is_initiator = yes
+					}
 				}
 			}
 		}

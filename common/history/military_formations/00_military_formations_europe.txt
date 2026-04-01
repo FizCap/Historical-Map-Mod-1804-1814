@@ -4275,7 +4275,7 @@
 			save_temporary_scope_as = north_general
 		}
 		scope:north_general ?= {
-# # transfer_to_formation = scope:carlist_north_army (FIXED: Orphaned link) (FIXED: Orphaned link)
+# # # # transfer_to_formation = scope:carlist_north_army (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link)
 		}
 		create_character = {
 			template = SPC_rafael_maroto_template
@@ -4283,7 +4283,7 @@
 			save_temporary_scope_as = north_general_two
 		}
 		scope:north_general_two ?= {
-# # transfer_to_formation = scope:carlist_north_army (FIXED: Orphaned link) (FIXED: Orphaned link)
+# # # # transfer_to_formation = scope:carlist_north_army (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link)
 		}
 		# Army of Maestrazgo
 		create_military_formation = {
@@ -4320,7 +4320,7 @@
 			save_temporary_scope_as = centre_general
 		}
 		scope:centre_general ?= {
-# # transfer_to_formation = scope:carlist_centre_army (FIXED: Orphaned link) (FIXED: Orphaned link)
+# # # # transfer_to_formation = scope:carlist_centre_army (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link)
 		}
 
 		# Army of Catalonia
@@ -4348,7 +4348,7 @@
 			save_temporary_scope_as = catalonia_general
 		}
 		scope:catalonia_general ?= {
-# # transfer_to_formation = scope:carlist_catalonia_army (FIXED: Orphaned link) (FIXED: Orphaned link)
+# # # # transfer_to_formation = scope:carlist_catalonia_army (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link) (FIXED: Orphaned link)
 		}
 	}
 }

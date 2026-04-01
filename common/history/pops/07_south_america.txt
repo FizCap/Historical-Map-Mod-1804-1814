@@ -548,7 +548,7 @@ POPS = {
 	s:STATE_BAJO_PARAGUAY = {
 		
 	
-		region_state:POR = {
+		region_state:ARG = {
 			create_pop = { # Creoles + Mixed (~3/4)
 				culture = platinean
 				size = 91439

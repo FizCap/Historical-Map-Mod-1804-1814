@@ -364,16 +364,15 @@ NET = {
 }
 
 POR = {
-	color = { 28 82 148 }
+	color = hsv360 	{	154	90	25	}
 
 	country_type = recognized
 
 	tier = kingdom
 
-	cultures = { portuguese brazilian }
-	capital = STATE_RIO_DE_JANEIRO #STATE_ESTREMADURA
-
-	religion = orthodox
+	cultures = { portuguese } #brazilian
+	capital = STATE_ESTREMADURA
+ 
 }
 
 SCO = {

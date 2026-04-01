@@ -8,4 +8,5 @@ colors = {
 	austriawhite = { 211  220  240 }
 	germanreich = { 30 30 35}  
 	rednew = { 60 0 0 } 
+	napoleon_italia = { 60 0 0 } 
 }

@@ -480,7 +480,7 @@
 
 		create_diplomatic_pact = {
 			country = c:SAF
-			type = puppet
+			type = colony
 		}
 		create_diplomatic_pact = {
 			country = c:DEI

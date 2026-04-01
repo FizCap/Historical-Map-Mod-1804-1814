@@ -52,3 +52,14 @@ REPLACE:soviet_red = {
 		has_law_or_variant = law_type:law_council_republic
 	}
 }
+
+napoleon_italia = {
+	color = "napoleon_italia"
+
+	possible = {
+		exists = c:ITA
+		c:ITA ?= THIS
+
+		is_subject_type = subject_type_protectorate 
+	}
+}

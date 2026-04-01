@@ -230,22 +230,22 @@ INJECT:NEJ = { # Nejd
 		}
 	}	
 }
-INJECT:SPA = {
-	flag_definition = {
-		coa = SPA_dictatorship_republic
-		priority = 25
-		trigger = { 
-			scope:actor = {
-				OR = {
-					has_law = law_type:law_presidential_republic
-					has_law = law_type:law_autocracy
-					has_law = law_type:law_national_supremacy
-					has_law = law_type:law_freedom_of_conscience
-				}
-			}
-		}
-	}
-}  
+# INJECT:SPA = {
+# 	flag_definition = {
+# 		coa = SPA_dictatorship_republic
+# 		priority = 25
+# 		trigger = { 
+# 			scope:actor = {
+# 				OR = {
+# 					has_law = law_type:law_presidential_republic
+# 					has_law = law_type:law_autocracy
+# 					has_law = law_type:law_national_supremacy
+# 					has_law = law_type:law_freedom_of_conscience
+# 				}
+# 			}
+# 		}
+# 	}
+# }  
 INJECT:CAN = { # Canada
 	flag_definition = {
 		coa = CAN_subject_GBR

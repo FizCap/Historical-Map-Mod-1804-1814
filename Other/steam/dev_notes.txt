@@ -1,0 +1,24 @@
+Ajouter la game rule à :
+1804
+1890
+1919
+
+
+Generaliser les charactere custom 
+1804 ok
+1837 pas la peine
+1861
+1871
+1890 ok 
+1919 ok 
+
+
+Aranger le probleme de pronvince.png sur la region de belford
+
+1804 -> province dif
+1837 a faire
+1861 a faire
+1871 a faire
+1890 -> province dif 
+1919 -> province dif
+

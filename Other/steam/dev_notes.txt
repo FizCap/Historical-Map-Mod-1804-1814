@@ -6,9 +6,9 @@ Ajouter la game rule à :
 
 Generaliser les charactere custom 
 1804 ok
-1837 pas la peine
-1861
-1871
+1837 pas la peine ok
+1861 ok
+1871  -> s'occuper des personnage danqs scrambel
 1890 ok 
 1919 ok 
 
@@ -21,4 +21,3 @@ Aranger le probleme de pronvince.png sur la region de belford
 1871 a faire
 1890 -> province dif 
 1919 -> province dif
-
